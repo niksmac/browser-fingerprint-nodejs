@@ -1,17 +1,15 @@
 {
-  "name": "guid",
+  "name": "browser-fingerprint-nodejs",
   "version": "0.0.0",
-  "description": "",
+  "description": "Browser Fingerprint",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "express": "3.x",
-    "udid": "x",
-    "getmac": "^1.0.6",
     "browser_fingerprint": "0.0.4"
   },
-  "author": "",
+  "author": "Nikhil Mohan, nikhil@lightrains.com",
   "license": "ISC"
 }
