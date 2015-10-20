@@ -1,6 +1,6 @@
 {
   "name": "browser-fingerprint-nodejs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Browser Fingerprint",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,19 @@
     "browser_fingerprint": "0.0.4"
   },
   "author": "Nikhil Mohan, nikhil@lightrains.com",
-  "license": "ISC"
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niksmac/browser-fingerprint-nodejs.git"
+  },
+  "keywords": [
+    "browser",
+    "browser fingerprint",
+    "fingerprint"
+  ],
+  "bugs": {
+    "url": "https://github.com/niksmac/browser-fingerprint-nodejs/issues"
+  },
+  "homepage": "https://github.com/niksmac/browser-fingerprint-nodejs#readme"
 }
